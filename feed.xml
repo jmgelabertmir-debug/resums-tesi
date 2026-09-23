@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 19:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:59:47 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -136,6 +136,15 @@
       <pubDate>Wed, 23 Sep 2026 19:53:41 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/10_saturacio-focus-groups-2019.mp3" length="1168035" type="audio/mpeg"/>
       <itunes:duration>1:32</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>PBA-scoping-review 2025 – The person-based approach to intervention development: A scoping review of methods and applications</title>
+      <guid isPermaLink="false">11_PBA-scoping-review-2025.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 19:59:46 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/11_PBA-scoping-review-2025.mp3" length="1526055" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
