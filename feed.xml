@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 11:58:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:17:28 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -91,6 +91,24 @@
       <pubDate>Wed, 23 Sep 2026 11:58:20 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/07_ACCORD-2024.mp4" length="18901625" type="video/mp4"/>
       <itunes:duration>6:53</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>CBT-chatbots-meta 2026 – Efficacy, User Engagement, and Acceptability of Cognitive Behavioral Therapy–Oriented Psychological Chatbots for Adults With Depressive and/or Anxiety Symptoms: Systematic Review and Meta-Analysis of Randomized Controlled Trials</title>
+      <guid isPermaLink="false">08_CBT-chatbots-meta-2026.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 12:08:54 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/08_CBT-chatbots-meta-2026.mp3" length="11875501" type="audio/mpeg"/>
+      <itunes:duration>16:24</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>08_CBT-chatbots-meta-2026 (vídeo)</title>
+      <guid isPermaLink="false">08_CBT-chatbots-meta-2026.mp4</guid>
+      <pubDate>Wed, 23 Sep 2026 12:17:26 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/08_CBT-chatbots-meta-2026.mp4" length="22043212" type="video/mp4"/>
+      <itunes:duration>7:50</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
