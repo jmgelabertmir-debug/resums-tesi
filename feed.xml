@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 11:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:13:11 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -46,6 +46,15 @@
       <pubDate>Wed, 23 Sep 2026 11:12:31 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/04_UP-SDP-2017.mp3" length="8809942" type="audio/mpeg"/>
       <itunes:duration>12:08</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>sample-size-focus-groups 2011 – What about N? A methodological study of sample-size reporting in focus group studies</title>
+      <guid isPermaLink="false">05_sample-size-focus-groups-2011.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 11:13:10 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/05_sample-size-focus-groups-2011.mp3" length="1348605" type="audio/mpeg"/>
+      <itunes:duration>1:52</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
