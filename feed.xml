@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 21:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:31:10 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -226,6 +226,24 @@
       <pubDate>Wed, 23 Sep 2026 21:12:12 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/17_eines-salut-digital-2022.mp3" length="1516069" type="audio/mpeg"/>
       <itunes:duration>2:01</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>codesign-joves 2025 – The use of co-design with young people for digital mental health support development: A systematic review</title>
+      <guid isPermaLink="false">18_codesign-joves-2025.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 21:21:10 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/18_codesign-joves-2025.mp3" length="7915196" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>18_codesign-joves-2025 (vídeo)</title>
+      <guid isPermaLink="false">18_codesign-joves-2025.mp4</guid>
+      <pubDate>Wed, 23 Sep 2026 21:31:08 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/18_codesign-joves-2025.mp4" length="23375078" type="video/mp4"/>
+      <itunes:duration>7:56</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
