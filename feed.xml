@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 12:18:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:48:04 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -109,6 +109,24 @@
       <pubDate>Wed, 23 Sep 2026 12:17:26 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/08_CBT-chatbots-meta-2026.mp4" length="22043212" type="video/mp4"/>
       <itunes:duration>7:50</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>IPD-subthreshold 2025 – Psychological interventions for subthreshold depression: individual participant data meta-analysis</title>
+      <guid isPermaLink="false">09_IPD-subthreshold-2025.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 19:38:23 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/09_IPD-subthreshold-2025.mp3" length="7832740" type="audio/mpeg"/>
+      <itunes:duration>10:47</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>09_IPD-subthreshold-2025 (vídeo)</title>
+      <guid isPermaLink="false">09_IPD-subthreshold-2025.mp4</guid>
+      <pubDate>Wed, 23 Sep 2026 19:48:03 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/09_IPD-subthreshold-2025.mp4" length="20271029" type="video/mp4"/>
+      <itunes:duration>7:24</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
