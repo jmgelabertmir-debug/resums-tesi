@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 22:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:23:40 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -289,6 +289,24 @@
       <pubDate>Wed, 23 Sep 2026 22:06:49 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/22_CVI-validitat-2007.mp3" length="1371164" type="audio/mpeg"/>
       <itunes:duration>1:49</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>UP-prevencio 2021 – Unified Protocol for the Transdiagnostic Prevention of Emotional Disorders: Evaluation of a Brief, Online Course for College Freshmen</title>
+      <guid isPermaLink="false">23_UP-prevencio-2021.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 22:14:14 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/23_UP-prevencio-2021.mp3" length="6260133" type="audio/mpeg"/>
+      <itunes:duration>8:36</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>23_UP-prevencio-2021 (vídeo)</title>
+      <guid isPermaLink="false">23_UP-prevencio-2021.mp4</guid>
+      <pubDate>Wed, 23 Sep 2026 22:23:38 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/23_UP-prevencio-2021.mp4" length="19775283" type="video/mp4"/>
+      <itunes:duration>7:30</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
