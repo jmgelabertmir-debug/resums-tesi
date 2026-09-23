@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 10:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:07:52 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -35,6 +35,14 @@
       <pubDate>Wed, 23 Sep 2026 10:55:45 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/03_codesign-digital-2020.mp3" length="1383725" type="audio/mpeg"/>
       <itunes:duration>1:55</itunes:duration>
+      <description></description>
+    </item>
+    <item>
+      <title>UP-SDP 2017 – The Unified Protocol for Transdiagnostic Treatment of Emotional Disorders Compared With Diagnosis-Specific Protocols for Anxiety Disorders: A Randomized Clinical Trial</title>
+      <guid isPermaLink="false">04_UP-SDP-2017.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 11:07:51 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/04_UP-SDP-2017.mp3" length="8748741" type="audio/mpeg"/>
+      <itunes:duration>12:08</itunes:duration>
       <description></description>
     </item>
   </channel>
