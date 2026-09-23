@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 21:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:00:54 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -262,6 +262,24 @@
       <pubDate>Wed, 23 Sep 2026 21:42:37 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/20_SRQR-2014.mp3" length="1491502" type="audio/mpeg"/>
       <itunes:duration>1:59</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>ICBT-anxietat 2023 – Internet-delivered cognitive behavioral therapy for anxiety among university students: A systematic review and meta-analysis</title>
+      <guid isPermaLink="false">21_ICBT-anxietat-2023.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 21:50:55 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/21_ICBT-anxietat-2023.mp3" length="8844355" type="audio/mpeg"/>
+      <itunes:duration>12:11</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>21_ICBT-anxietat-2023 (vídeo)</title>
+      <guid isPermaLink="false">21_ICBT-anxietat-2023.mp4</guid>
+      <pubDate>Wed, 23 Sep 2026 22:00:53 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/21_ICBT-anxietat-2023.mp4" length="20723536" type="video/mp4"/>
+      <itunes:duration>8:04</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
