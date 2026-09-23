@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 20:16:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:35:31 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -163,6 +163,24 @@
       <pubDate>Wed, 23 Sep 2026 20:16:20 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/12_CREDES-2017.mp4" length="21928466" type="video/mp4"/>
       <itunes:duration>7:42</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>chatbots-salut-mental 2026 – Mental health chatbots and their technical features: A systematic review of reviews and a thematic analysis</title>
+      <guid isPermaLink="false">13_chatbots-salut-mental-2026.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 20:25:07 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/13_chatbots-salut-mental-2026.mp3" length="9792268" type="audio/mpeg"/>
+      <itunes:duration>13:30</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>13_chatbots-salut-mental-2026 (vídeo)</title>
+      <guid isPermaLink="false">13_chatbots-salut-mental-2026.mp4</guid>
+      <pubDate>Wed, 23 Sep 2026 20:35:29 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/13_chatbots-salut-mental-2026.mp4" length="24099465" type="video/mp4"/>
+      <itunes:duration>8:24</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
