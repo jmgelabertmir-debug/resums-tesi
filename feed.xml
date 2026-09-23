@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 21:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:07:14 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -208,6 +208,15 @@
       <pubDate>Wed, 23 Sep 2026 21:00:31 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/15_chatbot-joves-2025.mp4" length="24483662" type="video/mp4"/>
       <itunes:duration>8:48</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>information-power 2016 – Sample Size in Qualitative Interview Studies: Guided by Information Power</title>
+      <guid isPermaLink="false">16_information-power-2016.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 21:07:12 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/16_information-power-2016.mp3" length="1403125" type="audio/mpeg"/>
+      <itunes:duration>1:51</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
