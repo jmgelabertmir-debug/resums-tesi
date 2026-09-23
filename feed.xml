@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 21:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:36:28 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -244,6 +244,15 @@
       <pubDate>Wed, 23 Sep 2026 21:31:08 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/18_codesign-joves-2025.mp4" length="23375078" type="video/mp4"/>
       <itunes:duration>7:56</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>IDEAS-framework 2016 – IDEAS (Integrate, Design, Assess, and Share): A Framework and Toolkit of Strategies for the Development of More Effective Digital Interventions to Change Health Behavior</title>
+      <guid isPermaLink="false">19_IDEAS-framework-2016.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 21:36:26 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/19_IDEAS-framework-2016.mp3" length="1392653" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
