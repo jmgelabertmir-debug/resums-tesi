@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resums de la tesi</title>
+    <link>https://jmgelabertmir-debug.github.io/resums-tesi</link>
+    <atom:link href="https://jmgelabertmir-debug.github.io/resums-tesi/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>ca</language>
+    <description>Resums en àudio, en català balear, dels articles citats a la tesi doctoral (UIB). Ús privat.</description>
+    <itunes:author>Joan Miquel Gelabert</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <lastBuildDate>Wed, 23 Sep 2026 09:46:27 +0000</lastBuildDate>
+    <item>
+      <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
+      <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 08:58:28 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/01_OASIS-ODSIS_2021.mp3" length="1530634" type="audio/mpeg"/>
+      <itunes:duration>2:07</itunes:duration>
+      <description></description>
+    </item>
+    <item>
+      <title>APPS-salut-mental 2025 – Smartphone apps for mental health: systematic review of the literature and five recommendations for clinical translation</title>
+      <guid isPermaLink="false">02_APPS-salut-mental-2025.mp3</guid>
+      <pubDate>Wed, 23 Sep 2026 09:13:21 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/02_APPS-salut-mental-2025.mp3" length="1369011" type="audio/mpeg"/>
+      <itunes:duration>1:53</itunes:duration>
+      <description></description>
+    </item>
+  </channel>
+</rss>
