@@ -6,44 +6,48 @@
     <atom:link href="https://jmgelabertmir-debug.github.io/resums-tesi/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ca</language>
     <description>Resums en àudio, en català balear, dels articles citats a la tesi doctoral (UIB). Ús privat.</description>
-    <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada.jpg"/>
-    <image><url>https://jmgelabertmir-debug.github.io/resums-tesi/portada.jpg</url><title>Resums de la tesi</title><link>https://jmgelabertmir-debug.github.io/resums-tesi</link></image>
+    <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    <image><url>https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg</url><title>Resums de la tesi</title><link>https://jmgelabertmir-debug.github.io/resums-tesi</link></image>
     <itunes:category text="Science"/>
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 23 Sep 2026 11:07:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:12:37 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
-      <pubDate>Wed, 23 Sep 2026 08:58:28 +0000</pubDate>
-      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/01_OASIS-ODSIS_2021.mp3" length="1530634" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 11:12:31 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/01_OASIS-ODSIS_2021.mp3" length="1591737" type="audio/mpeg"/>
       <itunes:duration>2:07</itunes:duration>
       <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
     <item>
       <title>APPS-salut-mental 2025 – Smartphone apps for mental health: systematic review of the literature and five recommendations for clinical translation</title>
       <guid isPermaLink="false">02_APPS-salut-mental-2025.mp3</guid>
-      <pubDate>Wed, 23 Sep 2026 09:13:21 +0000</pubDate>
-      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/02_APPS-salut-mental-2025.mp3" length="1369011" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 11:12:31 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/02_APPS-salut-mental-2025.mp3" length="1430176" type="audio/mpeg"/>
       <itunes:duration>1:53</itunes:duration>
       <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
     <item>
       <title>codesign-digital 2020 – Practitioner review: Co-design of digital mental health technologies with children and young people</title>
       <guid isPermaLink="false">03_codesign-digital-2020.mp3</guid>
-      <pubDate>Wed, 23 Sep 2026 10:55:45 +0000</pubDate>
-      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/03_codesign-digital-2020.mp3" length="1383725" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 11:12:31 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/03_codesign-digital-2020.mp3" length="1444868" type="audio/mpeg"/>
       <itunes:duration>1:55</itunes:duration>
       <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
     <item>
       <title>UP-SDP 2017 – The Unified Protocol for Transdiagnostic Treatment of Emotional Disorders Compared With Diagnosis-Specific Protocols for Anxiety Disorders: A Randomized Clinical Trial</title>
       <guid isPermaLink="false">04_UP-SDP-2017.mp3</guid>
-      <pubDate>Wed, 23 Sep 2026 11:07:51 +0000</pubDate>
-      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/04_UP-SDP-2017.mp3" length="8748741" type="audio/mpeg"/>
+      <pubDate>Wed, 23 Sep 2026 11:12:31 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/04_UP-SDP-2017.mp3" length="8809942" type="audio/mpeg"/>
       <itunes:duration>12:08</itunes:duration>
       <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
   </channel>
 </rss>
