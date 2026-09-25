@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 25 Sep 2026 20:39:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:58:16 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -442,6 +442,24 @@
       <pubDate>Fri, 25 Sep 2026 20:39:44 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/31_MRC-marc-2021.mp4" length="21619535" type="video/mp4"/>
       <itunes:duration>7:12</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>prevencio-escolar 2021 – School-based depression and anxiety prevention programs: An updated systematic review and meta-analysis</title>
+      <guid isPermaLink="false">32_prevencio-escolar-2021.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 20:48:38 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/32_prevencio-escolar-2021.mp3" length="8206103" type="audio/mpeg"/>
+      <itunes:duration>11:18</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>32_prevencio-escolar-2021 (vídeo)</title>
+      <guid isPermaLink="false">32_prevencio-escolar-2021.mp4</guid>
+      <pubDate>Fri, 25 Sep 2026 20:58:13 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/32_prevencio-escolar-2021.mp4" length="20036517" type="video/mp4"/>
+      <itunes:duration>6:56</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
