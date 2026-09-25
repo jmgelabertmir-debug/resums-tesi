@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 25 Sep 2026 03:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:37:19 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -352,6 +352,24 @@
       <pubDate>Fri, 25 Sep 2026 03:47:07 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/27_prevencio-depressio-ansietat-2015.mp4" length="19069251" type="video/mp4"/>
       <itunes:duration>6:33</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>COREQ 2007 – Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups</title>
+      <guid isPermaLink="false">28_COREQ-2007.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 04:29:41 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/28_COREQ-2007.mp3" length="1514780" type="audio/mpeg"/>
+      <itunes:duration>2:01</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>PBA-marc 2015 – The Person-Based Approach to Intervention Development: Application to Digital Health-Related Behavior Change Interventions</title>
+      <guid isPermaLink="false">29_PBA-marc-2015.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 05:37:17 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/29_PBA-marc-2015.mp3" length="1299759" type="audio/mpeg"/>
+      <itunes:duration>1:43</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
