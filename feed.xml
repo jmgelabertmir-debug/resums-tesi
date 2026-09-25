@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 25 Sep 2026 20:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:39:47 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -424,6 +424,24 @@
       <pubDate>Fri, 25 Sep 2026 05:43:53 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/30_CeHRes-roadmap-2011.mp3" length="1527269" type="audio/mpeg"/>
       <itunes:duration>2:02</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>MRC-marc 2021 – A new framework for developing and evaluating complex interventions: update of Medical Research Council guidance</title>
+      <guid isPermaLink="false">31_MRC-marc-2021.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 20:27:59 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/31_MRC-marc-2021.mp3" length="21661459" type="audio/mpeg"/>
+      <itunes:duration>29:59</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>31_MRC-marc-2021 (vídeo)</title>
+      <guid isPermaLink="false">31_MRC-marc-2021.mp4</guid>
+      <pubDate>Fri, 25 Sep 2026 20:39:44 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/31_MRC-marc-2021.mp4" length="21619535" type="video/mp4"/>
+      <itunes:duration>7:12</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
