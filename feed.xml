@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 25 Sep 2026 19:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:07:43 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -352,6 +352,15 @@
       <pubDate>Thu, 24 Sep 2026 23:52:25 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/25_psiquiatria-digital-2021.mp3" length="17244093" type="audio/mpeg"/>
       <itunes:duration>23:51</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>25_psiquiatria-digital-2021 (vídeo)</title>
+      <guid isPermaLink="false">25_psiquiatria-digital-2021.mp4</guid>
+      <pubDate>Fri, 25 Sep 2026 20:07:41 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/25_psiquiatria-digital-2021.mp4" length="20270335" type="video/mp4"/>
+      <itunes:duration>7:33</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
