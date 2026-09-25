@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 25 Sep 2026 05:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:40:39 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -37,6 +37,15 @@
       <pubDate>Wed, 23 Sep 2026 11:12:31 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/03_codesign-digital-2020.mp3" length="1444868" type="audio/mpeg"/>
       <itunes:duration>1:55</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>03_codesign-digital-2020 (vídeo)</title>
+      <guid isPermaLink="false">03_codesign-digital-2020.mp4</guid>
+      <pubDate>Fri, 25 Sep 2026 19:40:36 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/03_codesign-digital-2020.mp4" length="27016255" type="video/mp4"/>
+      <itunes:duration>9:36</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
