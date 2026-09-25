@@ -12,7 +12,7 @@
     <itunes:author>Joan Miquel Gelabert</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 25 Sep 2026 05:37:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:43:55 +0000</lastBuildDate>
     <item>
       <title>OASIS-ODSIS 2021 – Spanish Adaptation of the OASIS and ODSIS in University Students</title>
       <guid isPermaLink="false">01_OASIS-ODSIS_2021.mp3</guid>
@@ -370,6 +370,15 @@
       <pubDate>Fri, 25 Sep 2026 05:37:17 +0000</pubDate>
       <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/29_PBA-marc-2015.mp3" length="1299759" type="audio/mpeg"/>
       <itunes:duration>1:43</itunes:duration>
+      <description></description>
+      <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
+    </item>
+    <item>
+      <title>CeHRes-roadmap 2011 – A Holistic Framework to Improve the Uptake and Impact of eHealth Technologies</title>
+      <guid isPermaLink="false">30_CeHRes-roadmap-2011.mp3</guid>
+      <pubDate>Fri, 25 Sep 2026 05:43:53 +0000</pubDate>
+      <enclosure url="https://jmgelabertmir-debug.github.io/resums-tesi/episodis/30_CeHRes-roadmap-2011.mp3" length="1527269" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
       <description></description>
       <itunes:image href="https://jmgelabertmir-debug.github.io/resums-tesi/portada-1400.jpg"/>
     </item>
